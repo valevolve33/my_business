@@ -26,6 +26,7 @@ gem 'kaminari'
 gem 'heroku'
 gem 'therubyracer'
 gem 'twitter-bootstrap-rails'
+gem 'less-rails'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
